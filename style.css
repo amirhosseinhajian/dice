@@ -1,0 +1,35 @@
+body {
+    background-color: #6A2C70;
+    text-align: center;
+    color: #fff;
+    font-family: 'Courgette', cursive;
+}
+#heading-section {
+    margin-top: 5%;
+}
+.heading {
+    font-size: 4rem;
+}
+#plys-section {
+    margin-top: 5%;
+}
+.player-heading {
+    display: inline;
+    margin: 0 7%;
+}
+#img-section {
+    margin-top: 3%;
+}
+.dicee-img {
+    width: 15%;
+    margin: 0 2%;
+}
+#btn-section{
+    margin-top: 4%;
+}
+.ply-btn {
+    border-radius: 8px;
+    padding: 1% 2%;
+    font-size: 1rem;
+    font-family: 'Courgette', cursive;
+}
